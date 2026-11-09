@@ -13,7 +13,7 @@
 ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)
 
 <!-- Replace with a real screenshot or GIF -->
-<img src="./docs/screenshot.png" alt="Kendrick Llama player preview" width="800" />
+<img src="./docs/Screenshot.png" alt="Kendrick Llama player preview" width="800" />
 
 </div>
 
